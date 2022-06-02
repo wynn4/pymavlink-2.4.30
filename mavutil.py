@@ -1999,7 +1999,10 @@ mode_mapping_acm = {
     24 : 'ZIGZAG',
     25 : 'SYSTEMID',
     26 : 'AUTOROTATE',
-    27 : 'AUTO_RTL',
+    27 : 'PLANCKTRACK',
+    28 : 'PLANCKRTB',
+    29 : 'PLANCKLAND',
+    30 : 'PLANCKWINGMAN'
 }
 
 mode_mapping_rover = {
