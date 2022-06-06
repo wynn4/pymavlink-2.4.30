@@ -2056,7 +2056,7 @@ AP_MAV_TYPE_MODE_MAP_DEFAULT = {
     mavlink.MAV_TYPE_QUADROTOR:   mode_mapping_acm,
     mavlink.MAV_TYPE_HEXAROTOR:   mode_mapping_acm,
     mavlink.MAV_TYPE_OCTOROTOR:   mode_mapping_acm,
-    mavlink.MAV_TYPE_DECAROTOR:   mode_mapping_acm,
+    # mavlink.MAV_TYPE_DECAROTOR:   mode_mapping_acm,
     mavlink.MAV_TYPE_DODECAROTOR: mode_mapping_acm,
     mavlink.MAV_TYPE_COAXIAL:     mode_mapping_acm,
     # plane
